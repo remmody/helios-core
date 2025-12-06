@@ -65,7 +65,7 @@ export class MojangRestAPI {
 
   private static readonly TIMEOUT = 2500;
 
-  public static readonly AUTH_ENDPOINT = "https://authserver.mojang.com";
+  public static readonly AUTH_ENDPOINT = "https://authmc.remmody.ru";
   public static readonly STATUS_ENDPOINT =
     "https://raw.githubusercontent.com/AventiumSoftworks/helios-status-page/master/history/summary.json";
 
